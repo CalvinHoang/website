@@ -1,3 +1,3 @@
 # Personal Website
 
-Calvin Hoang's Website - Github Pages
+Calvin Hoang's Website - https://calvinhoang.github.io/website/
