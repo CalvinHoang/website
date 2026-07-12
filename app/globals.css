@@ -111,8 +111,8 @@ h1 {
   height: 180px;
   object-fit: cover;
   object-position: center;
-  background: var(--placeholder);
-  border: 1px solid var(--line);
+  background: #000;
+  border: 12px solid #000;
 }
 
 .about-copy {
